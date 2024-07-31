@@ -24,7 +24,7 @@ Work experience
   * Supervise several student groups for DL/ML architecture implementation.
   * System administration for high performance compute
 
-* Research AI engineer @ Massachussets General Hospital & Harvard Medical School
+* Research AI engineer @ Massachusetts General Hospital & Harvard Medical School
   * Worked on 8+ research projects developing machine learning and deep learning algorithms. From data preparation to evaluation.
   * Designed and implemented computer vision algorithms for lesion detection, and classification. Architectures included ResNet, EfficientNet,
 and U‑Net, achieving remarkable results.
