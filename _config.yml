@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Jose Miguel Acitores"
-description              : &description "personal description"
+description              : &description "Research data scientist at TLAB"
 url                      : https://joseacitores.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "joseacitores/joseacitores.github.io"
@@ -22,33 +22,33 @@ repository               : "joseacitores/joseacitores.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jose Miguel Acitores Cortina"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research data scientist @ [TatonettiLab](http://tatonettilab.org)"
+  location         : "Los Angeles"
+  employer         : "Cedars Sinai Medical Center"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "acitores.jm@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=T7ByJYIAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-0361-9334"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "joseacitores"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
