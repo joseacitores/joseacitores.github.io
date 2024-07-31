@@ -21,7 +21,7 @@ repository               : "joseacitores/joseacitores.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : images/profile.png
   name             : "Jose Miguel Acitores Cortina"
   pronouns         : # example: "she/her"  
   bio              : Research data scientist @ <a href="http://tatonettilab.org">TatonettiLab</a>
