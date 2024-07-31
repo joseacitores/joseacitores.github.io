@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jose Miguel Acitores Cortina"
   pronouns         : # example: "she/her"  
-  bio              : "Research data scientist @ " [TatonettiLab](http://tatonettilab.org)
+  bio              : Research data scientist @ <a href="http://tatonettilab.org">TatonettiLab</a>
   location         : "Los Angeles"
   employer         : "Cedars Sinai Medical Center"
   uri              : # URL
