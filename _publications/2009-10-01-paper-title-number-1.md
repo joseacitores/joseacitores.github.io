@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Automated AI Detection Tool for Ankle Fractures Using X-Rays and Smart Devices"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/ankle-fracture
+excerpt: ''
+date: 2023-12-01
+venue: 'Foot & Ankle Orthopaedics'
+paperurl: 'https://doi.org/10.1177/2473011423S0002'
+citation: 'Nassour N, Acitores JM, Jang C, et al. Automated AI Detection Tool for Ankle Fractures Using X-Rays and Smart Devices. Foot & Ankle Orthopaedics. 2023;8(4). doi:10.1177/2473011423S00026'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The use of artificial intelligence (AI) is particularly salient to visually oriented medical professions, especially orthopedics. The most prominent use of AI in orthopedics comes in the form of medical imaging examinations. AI has a huge potential to help doctors make diagnoses by acting as a second pair of eyes. Some results suggested a very high level of agreement between AI models’ and the clinician’s assessments of radiographs. Furthermore, it was also suggested that the sensitivity and specificity of emergency medicine physicians for detecting some pathologies are significantly improved when aided by an AI tool. In view of these observations, our study aimed to create an AI-based ankle fracture detection tool that can be used on smart devices for X-ray interpretation.
