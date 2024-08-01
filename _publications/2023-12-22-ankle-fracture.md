@@ -6,6 +6,7 @@ excerpt: ''
 date: 2023-12-22
 venue: 'Foot & Ankle Orthopaedics'
 paperurl: 'https://doi.org/10.1177/2473011423S00026'
+paper_downloadurl: 'https://journals.sagepub.com/doi/reader/10.1177/2473011423S00026'
 citation: 'Nassour N, Acitores JM, Jang C, et al. Automated AI Detection Tool for Ankle Fractures Using X-Rays and Smart Devices. Foot & Ankle Orthopaedics. 2023;8(4). doi:10.1177/2473011423S00026'
 ---
 
