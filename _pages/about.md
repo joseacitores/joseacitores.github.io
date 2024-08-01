@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 Welcome to my personal page! I am Jose Miguel Acitores Cortina, currently a research data scientist at [Tatonetti lab](http://tatonettilab.org), part of the Computational Biomedicine department at [Cedars Sinai Medical Center](https://www.cedars-sinai.edu/research-education/research/departments-institutes/computational-biomedicine.html). I am passionate about combining computer science with medicine and chemistry thorugh AI.
 
