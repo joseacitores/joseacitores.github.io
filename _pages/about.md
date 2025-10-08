@@ -8,13 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-Welcome to my personal page! I am Jose Miguel Acitores Cortina, currently a research data scientist at [Tatonetti lab](http://tatonettilab.org), part of the Computational Biomedicine department at [Cedars Sinai Medical Center](https://www.cedars-sinai.edu/research-education/research/departments-institutes/computational-biomedicine.html). I am passionate about combining computer science with medicine and chemistry thorugh AI.
+Welcome to my personal page! I am Jose Miguel Acitores Cortina, currently a Senior Research Sata Scientist at [Tatonetti lab](http://tatonettilab.org), part of the Computational Biomedicine department at [Cedars Sinai Medical Center](https://www.cedars-sinai.edu/research-education/research/departments-institutes/computational-biomedicine.html). I am passionate about improving our world thorugh AI and Computer Science. My main focuses are AI in healthcare and Chemical Informatics.
+
 
 Current Work
-======
-Currently at TLAB we are exploring multiple fields within AI and medicine. We aim to build safe and just approaches to democratize healthcare and AI. My work revolves around drug safety and adverse reactions, cancer an the use of novel data science and deep learning techniques.
-
-At the moment I am maintaining the following Github repositories:
-
-* [Sex-specific side effects (AwareDX)](https://github.com/tatonetti-lab/sex_risks)
-* [RIFTEHR](https://github.com/tatonetti-lab/riftehr)
+====== 
+At TLAB We aim to build safe and just approaches to democratize healthcare and AI. Currently I am exploring multiple fields within AI and medicine, including Adverse Drug Reactions, knowledge extraction from medical text, Chemical Informatics, medical tools development, and improving quality of care with SOTA technologies.
